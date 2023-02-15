@@ -7,10 +7,10 @@
 }
 body {
   text-align: center;
-  background: #fff;
+  background: #d1d1d1;
   color: #000;
-  font-size: 16px;
-  line-height: 1.7;
+  font-size: 15px;
+  line-height: 1.5;
 }
 .container {
   max-width: 1300px;
@@ -20,7 +20,7 @@ body {
 }
 
 section {
-  padding: 50px 0;
+  padding: 48px 0;
 }
 .author {
   font-style: italic;
@@ -38,5 +38,5 @@ p {
 }
 span {
   font-style: italic;
-  font-size: 16px;
+  font-size: 15px;
 }
